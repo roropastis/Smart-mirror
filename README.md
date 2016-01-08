@@ -18,3 +18,13 @@ une fonctionalité utilisée par Evan Cohen https://github.com/evancohen/smart-m
 
 -Controle vocal des streaming complet (Jouer, stopper, monter volume, descendre et mute).
 
+#Utilisation :
+
+Commandes vocales disponibles :
+  
+-"Information" : Lance la radio BFM.
+
+-"Musique" : Lance la radio NRJ.
+
+-"Stop" : stoppe la diffusion sonore.
+
